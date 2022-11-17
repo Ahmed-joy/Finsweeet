@@ -1,0 +1,109 @@
+.body{
+    overflow-x: hidden;
+}
+#re_blog{
+    padding: 100px 0px;
+}
+.banner_header h2{
+    width: 949px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    color: #282938;
+}
+.banner_header p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;
+    text-align: center;
+    color: #282938;
+    padding-top: 10px;
+}
+.banner_img{
+    padding-top: 20px;
+}
+.first_heading h2
+{
+   font-family: 'Poppins';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 38px;
+   line-height: 56px;
+   color: #282938; 
+}
+.sec_heading h2{
+   font-family: 'Poppins';
+   font-style: normal;
+   font-weight: 600;
+   font-size: 38px;
+   line-height: 56px;
+   color: #282938; 
+}
+
+.first_heading p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    opacity: 0.7;
+}
+.sec_heading p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    opacity: 0.7;
+}
+
+.red_icon p::after{
+    position: absolute;
+    content: '';
+    height: 10px;
+    width: 10px;
+    top: 10px;
+    left: 0;
+    background-color: #000000;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.red_icon p{
+    position: relative;
+    padding-left: 20px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    opacity: 0.7;
+}
+.middle_text{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    opacity: 0.7;
+}
+.third_headin p{
+    padding-top: 40px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    opacity: 0.7;
+}

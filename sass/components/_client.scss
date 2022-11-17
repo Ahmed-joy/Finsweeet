@@ -1,0 +1,106 @@
+#client{
+    padding: 130px 0px;
+    background-color: #F4F6FC;
+}
+.client_header{
+    width: 327px;
+}
+.client_header h2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 38px;
+    line-height: 56px;
+    color: #282938;
+}
+.client_header p{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    color: #282938;
+    opacity: 0.7;
+}
+.client_item{
+    position: relative;
+}
+.client_inner h4{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 48px;
+    color: #282938;
+}
+.client_img{
+    padding-top: 50px;
+}
+.client_img img{ 
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.client_text{
+    padding-left: 15px;
+}
+.client_text h5{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 16px;
+    color: #282938;
+}
+.client_text h6{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 16px;
+    color: #282938;
+}
+.fa-angle-right{
+    position: absolute;
+    width: 40px;
+    top: 210px;
+    left: 900px;
+    border: 1px solid black;
+    border-radius: 50%;
+    font-size: 40px;
+    text-align: center;
+    justify-content: center;
+    cursor: pointer;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.fa-angle-left{
+    position: absolute;
+    width: 40px;
+    top: 210px;
+    right: 0px;
+    border: 1px solid black;
+    border-radius: 50%;
+    font-size: 40px;
+    text-align: center;
+    justify-content: center;
+    cursor: pointer;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+.slick-arrow:hover{
+    background-color: #5239FA;
+    color: white;
+    transition: 0.8s;
+    -webkit-transition: 0.5s;
+    -moz-transition: 0.8s;
+    -ms-transition: 0.8s;
+    -o-transition: 0.8s;
+}
+ 

@@ -1,0 +1,40 @@
+#work{
+    padding: 200px 0px;
+    background-color: #395bc2;
+}
+.work_header h2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    color: #f8f8f8;
+}
+.work_header p{
+    padding-top: 16px;
+    width: 405px;
+}
+.work_header a{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+    color: #68d818;
+
+}
+.work_header a:hover{
+    transition: 0.8s;
+    color: #ffffff;
+    -webkit-transition:0.8s;
+    -moz-transition: 0.8s;
+    -ms-transition: 0.8s;
+    -o-transition: 0.8s;
+}
+.work_header i{
+    padding-left: 10px;
+    line-height: 32px;
+}
+.work_inner h3{
+    padding-top: 16px;
+}

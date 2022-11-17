@@ -1,0 +1,45 @@
+@media(max-width:575.98px){
+    #banner{
+        padding: 100px 0px;
+    }
+    .banner_text h1{
+        padding-left: 50px;
+        text-align: center;
+        justify-content: center;
+        width: 450px;
+    }
+    .banner_text p{
+        text-align: center;
+    }
+    .banner-btn{
+        text-align: center;
+    }
+    .banner-img{
+        padding-top: 141px;
+    }
+    .banner-img img{
+        width: 500px;
+    }
+    /*work part responsive*/
+    .work_header{
+        text-align: center;
+    }
+     .work_header p{
+        padding-left: 90px;
+    }
+    .work_list{
+        text-align: center;
+        padding-top: 20px;
+    }
+ /* project part start*/
+   .project_img_right{
+    text-align: center;
+   }
+   .project_overly_text{
+    margin-top: 100px;
+   }
+
+   .features_header{
+    text-align: center;
+   }
+}

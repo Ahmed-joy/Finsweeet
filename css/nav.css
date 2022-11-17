@@ -1,0 +1,32 @@
+.nav_bg ul li {
+  margin: 16px;
+}
+
+.nav_bg ul li a {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+  color: #db1f1f;
+}
+
+.contact_text {
+  padding: 16px 30px;
+  margin: 10px;
+  border: 2px solid rgba(244, 246, 252, 0.2);
+  border-radius: 41px;
+  -webkit-border-radius: 41px;
+  -moz-border-radius: 41px;
+  -ms-border-radius: 41px;
+  -o-border-radius: 41px;
+}
+
+.contact_text span {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 28px;
+  color: #FFFFFF;
+}/*# sourceMappingURL=nav.css.map */
